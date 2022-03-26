@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-<img src="" alt="wisetr-assinments.png" />
+<img src="https://mcusercontent.com/ff812afbb5636dfd88c124f39/images/4a63cb37-3d13-e714-5580-2e2f67918a47.png" alt="wisetr-assinments" />
 
 # Things to Consider:
 
